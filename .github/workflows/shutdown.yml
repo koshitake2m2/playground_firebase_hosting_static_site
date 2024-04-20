@@ -1,4 +1,4 @@
-name: shutdown prd
+name: shutdown
 on: workflow_dispatch
 jobs:
   disable_hosting:
